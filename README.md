@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Food Image Gallery
 
-## Getting Started
+## Über das Projekt
 
-First, run the development server:
+Willkommen zur Food Image Gallery! Diese Galerie ist ein einzigartiges Projekt, das sich auf hochprofessionelle Food-Bilder von höchster Qualität konzentriert. Was dieses Projekt besonders macht, ist die Verwendung von Künstlicher Intelligenz (KI) zur Generierung der Bilder. Entwickelt mit Next.js, Tailwind und TypeScript, bietet diese Galerie eine moderne und effiziente Benutzererfahrung.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Technologien
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**: Für serverseitiges Rendering und eine optimale Performance.
+- **Tailwind CSS**: Für ein responsives und modernes Design.
+- **TypeScript**: Für eine robuste Typisierung und bessere Code-Qualität.
+- **Künstliche Intelligenz**: Zur Generierung von hochwertigen Food-Bildern.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Hochauflösende, professionelle Food-Bilder
+- Generiert durch KI
+- Modernes, responsives Design
+- Schnelle Ladezeiten
+- Such- und Filteroptionen
 
-## Learn More
+## Installation und Nutzung
 
-To learn more about Next.js, take a look at the following resources:
+1. Klone das Repository:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   git clone https://github.com/your-username/food-image-gallery.git
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+2. Installiere die Abhängigkeiten:
 
-## Deploy on Vercel
+   ```bash
+   cd food-image-gallery
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Starte die Entwicklungsumgebung:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   npm run dev
+   ```
+
+Öffne [http://localhost:3000](http://localhost:3000) in deinem Browser, um die Anwendung zu sehen.
+
+## Mitwirken
+
+Fühle dich frei, einen Pull Request zu erstellen oder Issues zu melden. Jede Art von Hilfe ist willkommen!
