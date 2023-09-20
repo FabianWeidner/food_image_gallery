@@ -7,7 +7,7 @@ type Props = {
 
 export default function ImgContainer({ photo }: Props) {
   return (
-    <div key={photo.id} className="h-64 bg-gray-200 rounded-xl relative overflow-hidden group">
+    <div className="h-64 bg-gray-200 rounded-xl relative overflow-hidden group">
       <Image
         src={photo.src.large}
         alt={photo.alt}
